@@ -1,2 +1,2 @@
 # STAT5702
-CC
+A PDF version cheatsheet for tidy data. 
